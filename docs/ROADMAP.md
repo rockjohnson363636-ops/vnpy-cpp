@@ -1,3 +1,3 @@
 # vnpy-cpp Development Roadmap (Grok Build Best Practices)
 
-... [updated compliance section with latest: yes to Grok Build/ECC (AGENTS), agile (TDD, iterative, docs, verification), docs (AGENTS/ROADMAP/plans/srs/SYSTEM_DESIGN/ADRs), skills (global + project + auto via skillshare/MCP), MCPs (search first; used grok_com_github for push after search, chrome-devtools schema for UI test). Evidence from tools (ls, read, run, search/use, skillshare, MCP push). Continue: real CEF, more auto, customer prep. ...]
+... [updated compliance section] ...
