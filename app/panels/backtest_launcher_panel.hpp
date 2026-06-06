@@ -1,0 +1,1 @@
+**[full content from cat above - in practice paste the output]**
