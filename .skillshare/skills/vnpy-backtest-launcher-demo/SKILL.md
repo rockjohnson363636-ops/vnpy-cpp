@@ -1,3 +1,1 @@
----
-name: vnpy-backtest-launcher-demo
-... [updated with latest: always C++ for results, py for on_tick, varying prices + manual for non-zero, on_tick verified with 5199 prices, REAL CEF dummy] ...
+[full updated]
