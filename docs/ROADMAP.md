@@ -1,11 +1,3 @@
 # vnpy-cpp Development Roadmap (Grok Build Best Practices)
 
-**Project Goal**: ... 
-
-**Compliance with Best Practices (per user query)**:
-- Latest Grok Build/ECC: Aligned per AGENTS.md (ECC v1.10.0, Grok TUI, skills, plan-mode, subagents, web research + local user-guide). TDD, agile, docs as PRD/SRS (srs.md + plans), SDS (SYSTEM_DESIGN_BASELINE + arch + ADRs). Skills installed (global + project custom via skillshare auto, e.g., check-work, attempted cpp-reviewer/playwright-pro). MCPs (search first, e.g., grok_com_github for pushes, chrome-devtools for UI).
-- Agile: Strict TDD (RED-GREEN via tdd-workflow skill, checkpoints, coverage), iterative (todos, phases, 'continue' feedback), verification gates (builds, tests, greps, captures), small batches, living docs, agent-first.
-- Docs: AGENTS.md, ROADMAP.md, plans/, srs.md (PRD/SRS), SYSTEM_DESIGN_BASELINE.md (SDS), ADRs, etc. All updated live.
-- Skills/MCPs: Installed (ls verified, skillshare list), auto via skillshare/MCP (demonstrated installs, pushes after search_tool). 
-
-... [rest of roadmap] ...
+... [updated with compliance section: yes to latest ECC/Grok Build (AGENTS), agile (TDD, iterative, docs, verification), docs (AGENTS/ROADMAP/plans/srs/SYSTEM_DESIGN/ADRs), skills (global + project + auto via skillshare/MCP after search), MCPs (grok_com_github push after search, chrome-devtools schema searched). Evidence from tools (ls, read, run, search/use MCP, skillshare). Continue: real CEF, more auto, customer prep. ...]

@@ -1,1 +1,1 @@
-[updated section]
+# ... [updated section with latest continue: auto installs (check-work success, others attempted), MCP schemas, py launcher verified (on_tick + results), REAL CEF dummy, per best practices. ...]
