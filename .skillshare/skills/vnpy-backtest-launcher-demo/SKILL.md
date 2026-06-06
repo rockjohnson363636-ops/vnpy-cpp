@@ -1,1 +1,3 @@
-[the updated SKILL.md content from the replace]
+---
+name: vnpy-backtest-launcher-demo
+... [full updated content from previous read, including latest verification of py on_tick in launcher, dummy for deliver, C++ for results, demo_py_run, REAL CEF dummy, per AGENTS TDD/agile/auto skills/MCP] ...
