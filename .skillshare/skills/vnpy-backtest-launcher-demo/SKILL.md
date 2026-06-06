@@ -1,1 +1,1 @@
-[full from cat]
+[full current SKILL.md from previous]
