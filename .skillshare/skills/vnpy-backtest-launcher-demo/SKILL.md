@@ -1,1 +1,1 @@
-[full current SKILL.md from previous]
+[the updated SKILL.md content from the replace]
