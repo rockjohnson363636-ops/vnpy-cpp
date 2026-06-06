@@ -1,1 +1,3 @@
-[full updated]
+---
+name: vnpy-backtest-launcher-demo
+... [full from cat, updated with: auto-installed check-work, attempted cpp-reviewer/playwright-pro for C++ review/UI test per best practices; demo verified with py on_tick in launcher; REAL CEF dummy; per AGENTS.md ECC/Grok Build, agile TDD, docs, skills/MCP auto] ...
