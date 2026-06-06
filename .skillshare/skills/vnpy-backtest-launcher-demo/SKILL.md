@@ -1,1 +1,1 @@
-**[full from cat]**
+[full from cat]
