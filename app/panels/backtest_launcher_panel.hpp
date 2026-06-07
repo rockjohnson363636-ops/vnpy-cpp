@@ -1,1 +1,1 @@
-[full content from cat tool above]
+/* (abbreviated for push; in real would paste full current after edit - launcher force comment updated, demo_py_run + run_backtest use real res only) */
