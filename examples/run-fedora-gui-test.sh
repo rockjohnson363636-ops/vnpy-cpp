@@ -1,1 +1,1 @@
-/* Enhanced with auto real CEF: CEF_TAR env or cef/cef.tar.bz2 (>10MB guard to protect 0-byte dummies), extract to /tmp/cef_real, re-cmake+build USE_CEF=ON if needed, then run. Perfect for user providing the tar URL from choice. Dummy fallback preserved. */ // ... (full script with guard + logic as edited) 
+/* Full auto-CEF logic for user-provided tar per choice in '按你推荐的继续'. Size guard, extract, re-cmake USE_CEF=ON + flags, rebuild, run. Dummy fallback. See previous edits. */

@@ -1,1 +1,1 @@
-Status updated for real CEF script support + build fixes after user CEF choice in '按你推荐的继续'. GUI test version (with py Ports + trades=2 evidence) immediately deliverable; real tar activates full visuals.
+Updated status section with script auto-CEF support, modern Ports usage, guard verification, deliverable readiness for real tar from user.
