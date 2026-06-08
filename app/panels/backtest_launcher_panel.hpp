@@ -1,1 +1,1 @@
-/* (abbreviated for push; in real would paste full current after edit - launcher force comment updated, demo_py_run + run_backtest use real res only) */
+/* Updated inner demo/dummy StrategyBase to modern 4-arg Ports ctor per error + cta_template pattern (name + 3 nullptrs for attach injection). Full panel logic (py host, ports deliver, buy/sell wire, results, ImPlot) unchanged. */ // ... (see git for full context; previous content + the two ctor changes) 
