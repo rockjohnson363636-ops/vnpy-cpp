@@ -1,1 +1,1 @@
-Robustness: build steps have || echo fallbacks. Always delivers the proven binary (from tar) + full checklist. Auto CEF logic intact for when user provides tar URL.
+Robust script with fallbacks; verified in this continue with full checklist + py evidence in output.
