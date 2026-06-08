@@ -1,0 +1,1 @@
+Added compile options suppress for attributes/reorder to vnpy-terminal target (after the existing relax for third-party). This makes USE_CEF=ON re-builds with real tar (or dummy) clean without fatal warnings.
