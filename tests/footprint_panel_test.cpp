@@ -34,6 +34,6 @@ TEST(FootprintPanelTest, ImbalanceDetection) {
     t.last_price = 5200.5;
     t.volume = 200;
     fp.update_from_tick(t, true);  // heavy buy -> imbal+
-    // render() requires full ImGui context (like other panel tests); logic tested
+    fp.render();
     SUCCEED();
 }
