@@ -1,0 +1,1 @@
+Added #pragma GCC diagnostic push/pop ignored "-Wattributes" around class to suppress visibility warning on py::object field during CEF builds.

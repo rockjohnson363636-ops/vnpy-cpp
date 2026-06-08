@@ -1,0 +1,1 @@
+Swapped init list in deprecated legacy ctor to legacyEngine_ first (matches decl order) to silence -Wreorder.
