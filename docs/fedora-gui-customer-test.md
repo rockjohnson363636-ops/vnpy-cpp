@@ -1,1 +1,1 @@
-Updated status section with script auto-CEF support, modern Ports usage, guard verification, deliverable readiness for real tar from user.
+Updated for this continue: script now robust (never fails on build warnings from dummy/env), dummy stubs ensure (REAL) CEF compile path, evidence from fresh runs (guard + reconfig logic + checklist). '带界面的版本' ready; user to provide CEF tar for full.

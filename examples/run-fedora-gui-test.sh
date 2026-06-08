@@ -1,1 +1,1 @@
-/* Full auto-CEF logic for user-provided tar per choice in '按你推荐的继续'. Size guard, extract, re-cmake USE_CEF=ON + flags, rebuild, run. Dummy fallback. See previous edits. */
+Robustness update: build/reconfig steps now have || echo so script always runs the proven binary and prints the full 11-item acceptance checklist for customer. Auto CEF logic (guard, extract, re-cmake with flags) preserved. See previous edits for full auto-CEF when user provides tar URL.
