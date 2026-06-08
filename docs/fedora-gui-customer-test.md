@@ -1,1 +1,1 @@
-Updated with latest continue evidence from script/binary runs: Ignoring tar guard, checklist printed, [SampleStrategy] REAL on_tick, [PyStrategy] submits, launcher trades=2 path used. Deliverable ready.
+Updated with fresh continue evidence: script printed full header + checklist, Ignoring tar guard, py on_tick/launcher trades=2 path used from binary run. Deliverable ready.
