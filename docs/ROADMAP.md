@@ -1,1 +1,1 @@
-See local updated ROADMAP.md (ultra-fresh '按你推荐的继续' delivery section + package tar path + fedora script evidence + py Ports captures + customer commands + SRS/SDS re-affirm).
+See latest commit for full '按你推荐的继续 re-verify' section with CEF attempt, fresh evidence, package in examples/customer-deliverables/, MCP/chrome/skillshare updates, customer commands.
