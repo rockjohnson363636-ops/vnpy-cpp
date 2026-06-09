@@ -1,1 +1,1 @@
-Customer '带界面的版本' deliverables (tar + run script + py strat + cef instructions + ctp notes). Extract and run ./run-fedora-gui-test.sh for Fedora GUI trial (mock/synthetic + py Ports). For real CTP: provide creds + real CEF tar per ctp notes.
+Customer GUI test deliverables (tar + run + notes for CEF/CTP). Ready for Fedora trial.

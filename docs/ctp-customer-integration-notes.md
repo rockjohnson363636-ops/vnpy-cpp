@@ -1,1 +1,1 @@
-Enhanced CTP notes with this continue's SPI reads (md/trader skeletons, flows, VNLOG compliance, gateway simulate for demo without real creds). Ready for user creds + real CEF tar after GUI sign-off.
+See enhanced with this continue's SPI reads and VNPY_CTP_DEMO stub.
