@@ -1,6 +1,6 @@
 # Real CEF Tarball for Full "带界面的版本" Visuals (Fusion Charts)
 
-**Status (this continue)**: Dummy /tmp/cef_dummy + /tmp/cef_real (0-byte) sufficient for TDD/compile + all DATA_ONLY / xvfb GUI test evidence (py Ports parity, launcher, pro panels, (REAL) init logs). Full browser visuals + bidirectional JS roundtrip require real tar on Fedora display.
+**Status (this continue phase2)**: Dummy /tmp/cef_dummy + /tmp/cef_real (0-byte) sufficient for TDD/compile + all DATA_ONLY / xvfb GUI test evidence (py Ports parity, launcher, pro panels, (REAL) init logs, CTP demo). Full browser visuals + bidirectional JS roundtrip require real tar on Fedora display.
 
 ## How to Get Real Tar (Recommended for Customer Trial on Real Display)
 1. On a machine with browser: Visit https://cef-builds.spotifycdn.com/index.html
@@ -8,7 +8,7 @@
    - Platform: Linux
    - Architecture: 64-bit
    - Type: Minimal (smaller, ~100-200 MB .tar.bz2)
-   - Recent version (e.g. 131+ or 132+ matching Chromium; test stability)
+   - Recent version (e.g. 131+ or 132+ matching Chromium; pick latest available)
 3. Download the .tar.bz2 (example name pattern: cef_binary_131.3.1+..._linux64_minimal.tar.bz2)
 4. On target Fedora:
    ```bash
@@ -21,12 +21,12 @@
    - Re-config + build with -DVNPY_TERMINAL_USE_CEF=ON -DCEF_ROOT=... if needed
    - Run with full CEF (TV LC + C++ fusion overlays, volume profile, patterns, order flow, bidirectional control via MessageRouter/V8 -> moodycamel tokens -> zero-mutex core).
 
-HEAD tests in prior + this "按你推荐的继续" on patterns (131/132/120/...) returned 200 Connection established — tar is available at the CDN. Full auto-fetch skipped in env (size ~100-200MB, prior 0-byte cases); manual download recommended for real visuals on Fedora customer workstation. Dummy + instructions sufficient for immediate "带界面的版本" GUI test delivery + all py Ports evidence.
+HEAD/index tests in prior + this "按你推荐的继续" phase2 on patterns returned 200 Connection established (CDN live); specific old tar 404 (rotate). Full auto-fetch skipped (size). Manual/user tar recommended for real visuals on Fedora customer workstation + CTP test. Dummy + instructions + CTP_DEMO stub sufficient for immediate "带界面的版本" GUI test delivery + py Ports + CTP readiness evidence.
 
 ## Notes
 - After real tar + re-build, runtime needs libcef.so in LD_LIBRARY_PATH or rpath, Resources/, and may need --no-sandbox on some Fedora setups.
-- For headless CI: stick to DATA_ONLY + dummy (full evidence captured without real Chromium).
-- See docs/cef-setup.md + examples/run-fedora-gui-test.sh for integration details.
-- Per AGENTS: dummy for TDD parity; real for prod "带界面的版本" visuals on customer Fedora.
+- For headless CI: stick to DATA_ONLY + dummy (full evidence + CTP logs captured).
+- See docs/cef-setup.md + examples/run-fedora-gui-test.sh + ctp notes for integration.
+- Per AGENTS: dummy for TDD parity; real for prod "带界面的版本" visuals + CTP on customer Fedora.
 
-This continue re-verified script + package still deliver the test version immediately.
+This phase2 re-verified script + package + CTP wiring still deliver the test version immediately.
