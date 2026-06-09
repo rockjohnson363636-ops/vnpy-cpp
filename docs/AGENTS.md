@@ -1,1 +1,1 @@
-See updated AGENTS with this '按你推荐的继续' follow-up (package in examples/customer-deliverables/, CTP prep, skillshare, CEF re-check). Last updated section extended with 2026-06-09 actions.
+See updated AGENTS with latest '按你推荐的继续' + next-phase (package in release/ + customer-deliverables/, CTP/VNPY_CTP_DEMO, make-release, docs/SRS/SDS alignment).

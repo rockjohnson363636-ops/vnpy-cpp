@@ -1,1 +1,1 @@
-See the make-release.sh script (builds with CEF dummy, packages tar with all notes, py, run script, README).
+See the enhanced make-release.sh (builds with fallback to pre-built binary from customer-deliverables/ or build/app when CEF dummy headers incomplete; packages full GUI test tar with binary, run-fedora-gui-test.sh, sample_strategy.py, CEF/CTP notes, README).

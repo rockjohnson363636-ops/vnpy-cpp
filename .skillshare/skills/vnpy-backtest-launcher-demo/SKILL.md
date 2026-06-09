@@ -1,1 +1,1 @@
-See updated SKILL with this '按你推荐的继续' delivery + follow-up (package in examples/customer-deliverables/, CTP SPIs, CEF, py Ports evidence).
+See updated SKILL with latest delivery + next-phase packaging/CTP (tar ready, VNPY_CTP_DEMO stub, evidence).

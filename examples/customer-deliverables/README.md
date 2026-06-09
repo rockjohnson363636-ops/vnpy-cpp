@@ -1,1 +1,1 @@
-Customer GUI test deliverables (tar + run + notes for CEF/CTP). Ready for Fedora trial.
+Customer '带界面的版本' GUI test deliverables (use the 1.6M tar or run make-release; extract + ./run-fedora-gui-test.sh; optional real CEF_TAR per cef instructions; CTP prep per notes for future creds).

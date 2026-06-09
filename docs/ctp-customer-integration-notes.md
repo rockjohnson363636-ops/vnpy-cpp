@@ -1,1 +1,1 @@
-See enhanced with this continue's SPI reads and VNPY_CTP_DEMO stub.
+See enhanced with make-release inclusion, VNPY_CTP_DEMO stub, next (real CEF tar + CTP creds for full test + signoff).
