@@ -1,1 +1,1 @@
-See local updated SKILL.md ('按你推荐的继续 delivery' + package + fedora run + py evidence + MCP search-first + GUI test ready).
+See updated SKILL with this '按你推荐的继续' delivery + follow-up (package in examples/customer-deliverables/, CTP SPIs, CEF, py Ports evidence).
