@@ -1,1 +1,1 @@
-See latest commit for full '按你推荐的继续 re-verify' section with CEF attempt, fresh evidence, package in examples/customer-deliverables/, MCP/chrome/skillshare updates, customer commands.
+See full updated ROADMAP with this '按你推荐的继续' section (CEF, py enhancement, CTP prep, MCP/chrome, packaging, fresh evidence).
