@@ -1,1 +1,1 @@
-New CTP prep for customer GUI test + real account (CTP files, config, next steps after sign-off).
+Enhanced CTP notes with this continue's SPI reads (md/trader skeletons, flows, VNLOG compliance, gateway simulate for demo without real creds). Ready for user creds + real CEF tar after GUI sign-off.

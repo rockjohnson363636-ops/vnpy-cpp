@@ -1,1 +1,1 @@
-See local updated AGENTS.md (last updated with this '按你推荐的继续' package + fedora deliverable + compliance re-verified).
+See updated AGENTS with this '按你推荐的继续' follow-up (package in examples/customer-deliverables/, CTP prep, skillshare, CEF re-check).
